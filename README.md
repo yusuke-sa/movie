@@ -62,6 +62,7 @@
   - issueも上がってなさそう https://github.com/flutter/flutter/issues?q=is%3Aissue+label%3A%22p%3A+webview%22+
 - 実際に以下のテストプログラムを動かしてみたところCookieの取得、設定は期待通りに動作した
   - https://github.com/flutter/codelabs/tree/master/webview_flutter/step_11
+    - JavaScriptを実行することでCookieの制御している
   - 端末：GooglePixel 3XL(Android12)
 - どこかのアップデートでCookie関連の不具合が解消された可能性がある
   - https://pub.dev/packages/webview_flutter/changelog
