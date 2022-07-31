@@ -38,7 +38,7 @@
   - メモリ消費が多く、特定画面で固まる、メモリリークでOSが再起動される
     - デバイスごとにスタックする画面数や表示する商品の写真枚数を減らすことで対応
 
- ## 資料
+## 資料
 - 年間300万人が利用するファッション通販アプリをFlutterでリプレイスした話
   - https://speakerdeck.com/crooz/techhills-nian-jian-300mo-ren-gali-yong-suruhuatusiyontong-fan-apuriwoflutterderipureisusitahua
 - 大規模な「じゃらんnet」アプリを段階的にFlutter化している話
